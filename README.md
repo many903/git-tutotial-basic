@@ -7,3 +7,4 @@ ya nada mas para que si se vea que he estado haciendo algo en misa clases aunque
 lo mejor de este es que yo lo estoy haciendo desde visual studio jajajaja
 
 este es el ditado del dia de hot 23/06/21 que nos solicito el maestro hugo vargas suvir a mi repositorio prinsipal
+subir desde plugin 
